@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🐭 I'm @piaodazhu
-- 🌱 My research interest is DNS for Information-Centric Networking.
-- 🔭 Personal interests: backend, network, middleware...
-- 📫 How to reach me: 2283079466@qq.com
+- 🌱 My research interest is DNS for Information-Centric Networking and Network Protocols.
+- 🔭 Personal interests: backend, network, middleware, video/audio...
+- 💻 Language: Go/C/C++/Python/JavaScript. (0.5/0.4/0.05/0.03/0.02, approximately the current ratio)
+- 📫 How to reach me: luozhanghuixian@gmail.com
+
+[![Piaodazhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaodazhu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/luo-zhang-hui-xian?theme=light&font=Proza%20Libre&site=cn)
