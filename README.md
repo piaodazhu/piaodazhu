@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: luozhanghuixian@gmail.com
 
 [![Piaodazhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaodazhu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![LeetCode Stats](https://leetcard.jacoblin.cool/luo-zhang-hui-xian?theme=light&font=Proza%20Libre&site=cn)
