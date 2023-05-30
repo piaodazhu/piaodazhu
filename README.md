@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 🔭 Personal interests: backend, network, middleware, video/audio...
 - 💻 Language: Go/C/C++/Python/JavaScript. (0.5/0.4/0.05/0.03/0.02, approximately the current ratio)
 - 📫 How to reach me: luozhanghuixian@gmail.com
-
-[![Piaodazhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=piaodazhu&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
