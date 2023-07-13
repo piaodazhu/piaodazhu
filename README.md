@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🐭 I'm @piaodazhu
 - 🌱 My research interest is DNS for Information-Centric Networking and Network Protocols.
 - 🔭 Personal interests: backend, network, middleware, video/audio...
-- 💻 Language: Go/C/C++/Python/JavaScript. (0.5/0.4/0.05/0.03/0.02, approximately the current ratio)
+- 💻 Language: Golang/C/Python...
 - 📫 How to reach me: luozhanghuixian@gmail.com
